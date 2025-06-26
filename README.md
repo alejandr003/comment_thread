@@ -7,4 +7,4 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000/escribir) from your browser.
 
-![Evidencia](https://drive.google.com/file/d/1dPqgGGSI-Scg-FkkZU6buEbCB8fR6AoN/view?usp=sharing)
+![The first computer ever built](/assets/comments.png)
