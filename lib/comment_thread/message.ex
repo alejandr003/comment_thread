@@ -15,4 +15,9 @@ defmodule CommentThread.Message do
     |> validate_required([:content])
     |> validate_length(:content, min: 1, max: 500)
   end
+
+
+  def update_changeset(message, attrs) do
+    changeset(message, attrs)
+  end
 end
